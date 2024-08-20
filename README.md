@@ -25,7 +25,7 @@ O projeto visa desenvolver uma plataforma digital que conecte donos de pets a pr
 - **Tecnologias**:
     - Frontend: React ou Angular
     - Backend: Node.js com Express
-    - Banco de Dados: MongoDB ou PostgreSQL
+    - Banco de Dados: MySQL Workbench
     - Autenticação: JWT (JSON Web Tokens)
 - **Serviços de Terceiros**:
     - Processamento de Pagamentos: Stripe ou PayPal
