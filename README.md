@@ -1,4 +1,4 @@
-## Projeto: Plataforma de Babá de Pets
+## Documentação Backend - Plataforma de Babá de Pets
 
 ### Descrição do Projeto
 
@@ -38,44 +38,4 @@ O projeto visa desenvolver uma plataforma digital que conecte donos de pets a pr
 - **Segurança dos Animais**: Riscos associados à segurança e bem-estar dos pets durante o serviço.
 - **Confiabilidade da Plataforma**: Necessidade de manter a plataforma estável e disponível para evitar perda de usuários.
 
-### Comandos de Inicialização do TypeScript
-
-1. **Instalação do TypeScript**:
-    
-    ```bash
-    npm install -g typescript
-    
-    ```
-    
-2. **Inicialização do Projeto**:
-    
-    ```bash
-    tsc --init
-    
-    ```
-    
-3. **Compilação do Código**:
-    
-    ```bash
-    tsc
-    
-    ```
-    
-4. **Compilação de um Arquivo Específico**:
-    
-    ```bash
-    tsc arquivo.ts
-    
-    ```
-    
-5. **Observação de Alterações**:
-    
-    ```bash
-    tsc --watch
-    
-    ```
-    
-
-### Conclusão
-
-A plataforma de babá de pets tem o potencial de atender a uma demanda crescente por serviços de cuidados para animais de estimação, proporcionando uma solução conveniente tanto para donos quanto para prestadores de serviços. Com um planejamento cuidadoso e a implementação das funcionalidades descritas, o projeto pode se tornar uma referência no mercado.
+AUTOR: Shaihanne Allanis
