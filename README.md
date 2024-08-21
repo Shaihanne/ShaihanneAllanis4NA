@@ -23,7 +23,7 @@ O projeto visa desenvolver uma plataforma digital que conecte donos de pets a pr
 ### Dependências
 
 - **Tecnologias**:
-    - Frontend: React ou Angular
+    - Frontend: React
     - Backend: Node.js com Express
     - Banco de Dados: MySQL Workbench
     - Autenticação: JWT (JSON Web Tokens)
