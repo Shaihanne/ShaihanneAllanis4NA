@@ -1,24 +1,22 @@
-## Documentação Backend - Plataforma de Babá de Pets
+DOCUMENTAÇÃO - BACKEND - Site de Recomendação de Livros para Estudantes de TI
 
 ### Descrição do Projeto
 
-O projeto visa desenvolver uma plataforma digital que conecte donos de pets a prestadores de serviços de babá de pets. A ideia é criar um espaço onde os donos possam encontrar cuidadores qualificados para seus animais de estimação, enquanto os prestadores de serviço possam buscar oportunidades de trabalho freelance.
+O site tem como objetivo ajudar estudantes de Tecnologia da Informação (TI) a encontrar livros recomendados para aprender novas linguagens de programação e tecnologias. Os usuários poderão pesquisar por uma linguagem ou tecnologia específica e receber recomendações de livros que cobrem o tópico de interesse.
 
 ### Requisitos Funcionais
 
-- **Cadastro de Usuários**: Permitir que donos de pets e prestadores de serviços criem perfis na plataforma.
-- **Busca de Prestadores**: Os donos devem poder buscar prestadores de serviços com base em localização, tipo de animal e avaliações.
-- **Criação de Anúncios**: Prestadores devem ter a capacidade de criar anúncios detalhando seus serviços, preços e disponibilidade.
-- **Sistema de Avaliação**: Implementar um sistema de avaliação onde os donos possam avaliar os prestadores após a prestação de serviços.
-- **Mensagens Diretas**: Permitir comunicação direta entre donos e prestadores para discutir detalhes dos serviços.
-- **Agendamento de Serviços**: Facilitar o agendamento de serviços e a confirmação de reservas.
+1- O site deve permitir que os usuários busquem por livros relacionados a uma linguagem de programação.
+2- O site deve fornecer recomendações baseadas em filtros e preferências.
+3- O site deve mostrar informações detalhadas sobre cada livro e permitir avaliações por parte dos usuários.
 
 ### Requisitos Não Funcionais
 
-- **Usabilidade**: A interface deve ser intuitiva e fácil de usar, tanto para donos quanto para prestadores.
-- **Desempenho**: O sistema deve ser capaz de suportar um grande número de usuários simultaneamente.
-- **Segurança**: Garantir a proteção dos dados dos usuários, incluindo informações pessoais e de pagamento.
-- **Escalabilidade**: A plataforma deve ser projetada para suportar um crescimento no número de usuários e serviços oferecidos.
+Desempenho: O site deve ser rápido e responsivo.
+Segurança: Implementar medidas de segurança para proteger dados dos usuários e informações do site.
+Escalabilidade: O sistema deve ser capaz de lidar com um aumento no número de usuários e dados.
+Disponibilidade: Garanta que o site esteja acessível e operacional a maior parte do tempo, visando uma meta de disponibilidade como 99,9% ou 99,99%, implementando estratégias como redundância, balanceamento de carga e monitoramento contínuo.
+Manutenibilidade: Facilite a manutenção e atualização do site com práticas como código limpo, controle de versão, CI/CD, testes automatizados, documentação técnica e suporte contínuo.
 
 ### Dependências
 
@@ -26,10 +24,20 @@ O projeto visa desenvolver uma plataforma digital que conecte donos de pets a pr
     - Frontend: React
     - Backend: Node.js com Express
     - Banco de Dados: MySQL Workbench
-    - Autenticação: JWT (JSON Web Tokens)
-- **Serviços de Terceiros**:
-    - Processamento de Pagamentos: Stripe ou PayPal
-    - Serviços de Geolocalização: Google Maps API
+
+- **Ferramentas**:
+
+     IDEs (Ambientes de Desenvolvimento Integrados)
+     - Visual Studio Code: Popular por sua flexibilidade e extensões para diferentes linguagens e frameworks.
+     - WebStorm: Ideal para desenvolvimento front-end com JavaScript e frameworks relacionados.
+  
+   -**Depuradores**:
+  
+     - Chrome DevTools: Ferramenta poderosa para depuração de código JavaScript no navegador.
+
+       
+
+   
 
 ### Análise de Riscos
 
